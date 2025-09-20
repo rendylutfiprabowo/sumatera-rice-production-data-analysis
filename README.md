@@ -1,4 +1,4 @@
-# 🌾 sumatera-rice-production-data-analysis
+# 🌾 Sumatera-rice-production-data-analysis
 
 ## 📌 Project Overview
 
