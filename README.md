@@ -1,40 +1,40 @@
-# 🌾 Analisis Produksi Padi di Pulau Sumatera
+# 🌾 sumatera-rice-production-data-analysis
 
 ## 📌 Project Overview
 
-Analisis ini menggunakan dataset produksi padi di Pulau Sumatera (1993–2020) untuk memahami tren produksi, membandingkan antarprovinsi, dan mengevaluasi faktor lingkungan (curah hujan, kelembapan, suhu) yang berpengaruh terhadap produksi.
+This project analyzes rice production data in Sumatera Island (1993–2020) to understand production trends, compare across provinces, and evaluate environmental factors (rainfall, humidity, temperature) that may influence production outcomes.
 
 ## 🔹 Dataset
 
-- File: `Data_Tanaman_Padi_Sumatera_version_1.csv`
-- Jumlah data: 224 baris × 7 kolom
-- Kolom: Provinsi, Tahun, Produksi, Luas Panen, Curah hujan, Kelembapan, Suhu rata-rata
+* File: `Data_Tanaman_Padi_Sumatera_version_1.csv`
+* Size: 224 rows × 7 columns
+* Columns: Province, Year, Production, Harvested Area, Rainfall, Humidity, Average Temperature
 
-## 🔹 Tahapan Analisis
+## 🔹 Analysis Workflow
 
-1. **Data Preparation** → cek struktur data, statistik deskriptif, missing values
-2. **Data Preprocessing** → encoding variabel kategorikal, normalisasi (opsional)
-3. **Exploratory Data Analysis (EDA)** → tren produksi, perbandingan provinsi, korelasi faktor iklim, produktivitas
-4. **Conclusion & Reporting** → insight bisnis dan rekomendasi kebijakan
+1. **Data Preparation** → check data structure, descriptive statistics, missing values
+2. **Data Preprocessing** → categorical encoding, normalization (optional)
+3. **Exploratory Data Analysis (EDA)** → production trends, province comparison, correlation of environmental factors, productivity analysis
+4. **Conclusion & Reporting** → business insights and policy recommendations
 
 ## 🔹 Key Insights
 
-- Produksi padi di Sumatera meningkat hingga puncaknya tahun 2017 (±20,5 juta ton), lalu menurun tajam pada 2018–2020.
-- **Sumatera Utara, Sumatera Selatan, dan Lampung** adalah penghasil padi terbesar.
-- **Sumatera Barat** memiliki produktivitas tertinggi (±5,17 ton/ha).
-- Korelasi kuat antara **luas panen dan produksi (r = 0,90)**, sedangkan faktor iklim relatif lemah.
+* Rice production in Sumatera increased until it peaked in 2017 (\~20.5 million tons), then dropped sharply during 2018–2020.
+* **North Sumatera, South Sumatera, and Lampung** are the largest rice-producing provinces.
+* **West Sumatera** has the highest productivity (\~5.17 tons/ha).
+* Strong correlation between **harvested area and production (r = 0.90)**, while environmental factors showed weak influence.
 
 ## 🔹 Conclusion
 
-- Produksi padi di Sumatera menurun signifikan setelah 2017.
-- Pusat produksi terbesar ada di Sumatera Utara, Sumatera Selatan, dan Lampung.
-- Efisiensi lahan di Sumatera Barat patut dijadikan model untuk provinsi lain.
-- **Rekomendasi:** fokus pada **peningkatan produktivitas lahan** melalui teknologi pertanian dan varietas unggul.
+* Rice production in Sumatera declined significantly after 2017.
+* Major production centers are North Sumatera, South Sumatera, and Lampung.
+* Land efficiency in West Sumatera can serve as a benchmark for other provinces.
+* **Recommendation:** focus on **increasing land productivity** through modern farming technologies and superior rice varieties.
 
-## 📂 Struktur Repo
+## 📂 Repository Structure
 
 ```
-padi-sumatera-analysis/
+sumatera-rice-production-data-analysis/
 │
 ├── data/
 │   └── Data_Tanaman_Padi_Sumatera_version_1.csv
@@ -47,6 +47,7 @@ padi-sumatera-analysis/
 
 ## 📬 Contact
 
-Rendy Lutfi Prabowo  
-🌐 [Portfolio Website](https://rendylutfiprabowo.github.io)  
-📧 rendylutfiprabowo123@gmail.com
+Rendy Lutfi Prabowo
+🌐 [Portfolio Website](https://rendylutfiprabowo.github.io)
+📧 [rendylutfiprabowo123@gmail.com](mailto:rendylutfiprabowo123@gmail.com)
+ 
