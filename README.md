@@ -47,9 +47,9 @@ sumatera-rice-production-data-analysis/
 
 ## 📬 Contact
 
-Rendy Lutfi Prabowo
+💼 LinkedIn: [Rendy Lutfi Prabowo](https://www.linkedin.com/in/rendylutfiprabowo/)
 
-🌐 [Portfolio Website](https://rendylutfiprabowo.github.io)
+🌐 [rendylutfiprabowo.github.io](https://rendylutfiprabowo.github.io)
 
 📧 [rendylutfiprabowo123@gmail.com](mailto:rendylutfiprabowo123@gmail.com)
  
