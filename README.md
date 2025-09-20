@@ -8,7 +8,7 @@ This project analyzes rice production data in Sumatera Island (1993–2020) to u
 
 * File: `Data_Tanaman_Padi_Sumatera_version_1.csv`
 * Size: 224 rows × 7 columns
-* Columns: Province, Year, Production, Harvested Area, Rainfall, Humidity, Average Temperature
+* Columns: Provinsi, Tahun, Produksi, Luas Panen, Curah hujan, Kelembapan, Suhu rata-rata
 
 ## 🔹 Analysis Workflow
 
@@ -26,9 +26,9 @@ This project analyzes rice production data in Sumatera Island (1993–2020) to u
 
 ## 🔹 Conclusion
 
-* Rice production in Sumatera declined significantly after 2017.
-* Major production centers are North Sumatera, South Sumatera, and Lampung.
-* Land efficiency in West Sumatera can serve as a benchmark for other provinces.
+* Rice production in Sumatera grew until 2017, but experienced a sharp decline afterward.
+* North Sumatera, South Sumatera, and Lampung are the main production centers, while West Sumatera stands out in terms of productivity per hectare.
+* Harvested area is the key determinant of production output, whereas climatic variables show relatively little influence in this dataset.
 * **Recommendation:** focus on **increasing land productivity** through modern farming technologies and superior rice varieties.
 
 ## 📂 Repository Structure
